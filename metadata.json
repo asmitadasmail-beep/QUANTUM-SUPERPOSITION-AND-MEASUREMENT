@@ -1,0 +1,5 @@
+{
+  "name": "Quantum Wave Lab",
+  "description": "An interactive live adaptive simulation of quantum wave behavior and qubit measurement.",
+  "requestFramePermissions": []
+}
