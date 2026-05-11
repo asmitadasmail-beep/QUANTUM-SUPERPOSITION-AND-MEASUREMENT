@@ -1,5 +1,5 @@
 {
   "name": "Quantum Wave Lab",
-  "description": "An interactive live adaptive simulation of quantum wave behavior and qubit measurement.",
+  "description": "An interactive multi-page quantum educational suite featuring detailed theory, live qubit simulations, statistical analysis, and real-world applications.",
   "requestFramePermissions": []
 }
